@@ -1,7 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://manasgupta.000webhostapp.com)
-<h1 align="center">Hi 👋, I'm manas gupta</h1>
-<h3 align="center">A passionate full stack web and android developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm PAVIT SINGH NARANG</h1>
+<h3 align="center">An Ardent Roboticist </h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<a href="https://iconscout.com/lottie-animations/programmer" class="text-underline font-size-sm" target="_blank">Programmer working on PC</a> by <a href="https://iconscout.com/contributors/faiyaz" class="text-underline font-size-sm" target="_blank">Faiyaz Algur</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasgupta01&label=Profile%20views&color=0e75b6&style=flat" alt="manasgupta01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasgupta01" alt="manasgupta01" /></a> </p>
