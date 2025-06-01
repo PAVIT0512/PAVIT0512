@@ -119,8 +119,16 @@
 
 <a href="https://github.com/PAVIT0512" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
-      </a>     
-  
+      </a>  
+<a href="https://www.st.com/en/development-tools/stm32cubemx.html" target="_blank" rel="noreferrer">
+  <img src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/e/e2/ST16333_Label_STM32CubeMX.png" alt="github" width="70" height="40" />   
+</a>
+
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKaKPh9ipG-10P-D215X5fVCAkegBEpdaDw&s" alt="github" width="50" height="40" />   
+</a>
+
+
   
   
 </p>
